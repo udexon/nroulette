@@ -31,9 +31,20 @@ Unfortunately the idea of ID-less transactions itself is not sufficiently attrac
 
 A roulette lady may resell her position to someone else, or work in group for sales and control of the positions.
 
-A lady may opt to perform specific tasks based on the stake placed on her number, e.g. strip all, masturbate, penetration sex etc.
+A lady may opt to perform specific tasks based on the stake placed on her number, e.g. strip all, masturbate, penetration sex, lesbian group sex etc.
 
 A lady may choose to be bought out and cease participating by any other willing party or herself.
+
+So you got the idea ....
+
+
+### The Fairest Roulette -- Doubling as the Biggest Proof of Stake Machine
+
+Now if naked ladies are not enough to get nerds (another N word!!) excited, I believe these two will:
+
+- The Fairest Roulette 
+- Doubling as the Biggest Proof of Stake Machine
+
 
 Use ID-less transactions, cryotocurrencies.
 
