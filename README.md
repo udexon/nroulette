@@ -47,6 +47,8 @@ Now if naked ladies are not enough to get nerds (another N word!!) excited, I be
 
 Some mathematicians are gamblers. Some programmers want to be mathematicians. So here is the ultimate prize, the holy grail of programming and mathematics -- the fairest roulette.
 
+Our ID-less protocol will be the purest decentralized protocol amongst all: the sender uses the public key of the recipient to encrypt a message and the recipient decyrpt it using his (her) private key, thus proving his identity. This is the most basic, fundamental and primitive operation in asymetric cryptography.
+
 Use ID-less transactions, cryotocurrencies.
 
 We may use this idea to implement Phos Cloudless platform.
