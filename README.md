@@ -1,6 +1,6 @@
 ### N-Roulette
 
-N-Roulette -- where N could stand for many things depending on the participants, ranging from network, nude, to naked etc ...
+N-Roulette -- where N could stand for many things depending on the participants, ranging from network, nude, to nerd, naked etc ... or simply the set of natural numbers.
 
 Online casinos are perhaps one of the booming businesses that will thrive during the crisis and beyond, while we have no idea how long the Coronavirus lockdowns are going to last.
 
