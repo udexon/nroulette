@@ -87,10 +87,10 @@ Why has such best thing since bread not created earlier? We needed two things re
 
 <hr>
 
-Use ID-less transactions, cryotocurrencies.
+And our project home is:
 
-We may use this idea to implement Phos Cloudless platform.
+https://www.reddit.com/r/nroulette
 
-Open source, the most fair online roulette game in the world, technically challenging.
+
 
 
