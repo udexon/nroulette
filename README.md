@@ -53,6 +53,11 @@ Using the ID-less protocol, we may connect as many devices (mobile devices or de
 
 Of course, this is still a hypothesis. But isn't hypothesis in itself most attractive?
 
+Just as none of the existing blockchains was able to break away from the Unix user ID convention, our ID-less paradigm can be used to create a new, ultimate super-blockchain. Incidentally, the roulette computations, including users bets, can be used as inputs to create the ultimate Proof of Stake system. One stone kills many birds indeed.
+
+
+### Lady Bosses
+
 Use ID-less transactions, cryotocurrencies.
 
 We may use this idea to implement Phos Cloudless platform.
