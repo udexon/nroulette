@@ -72,6 +72,19 @@ As such, I believe we understand each other well --- not that I have met a porns
 
 Anyway, by creating the fairest roulette, we also want to create the fairest company, where free software programmers and the roulette ladies alike can be shareholders --- not anyone's employee, but of course, unless we choose to be.
 
+How can we be sure about it?
+
+FORK it!!
+
+No. This is not a vulgar word. All free software programmers know what forking means.
+
+N-Roulette will be the root project from which anyone can fork to create their own N-Roulettes, to make sure everyone who contributes gets the fairest returns --- from programmers to roulette ladies, as well as punters.
+
+Why has such best thing since bread not created earlier? We needed two things really:
+
+- Cryptocurrencies
+- ID-less transactions --- enabling decentralized ID-less computation networks as well as rewarding individuals with online micropayment tipping, and of course, gambling
+
 <hr>
 
 Use ID-less transactions, cryotocurrencies.
