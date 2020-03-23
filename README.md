@@ -58,6 +58,20 @@ Just as none of the existing blockchains was able to break away from the Unix us
 
 ### Lady Bosses
 
+Is it possible to be ethical to the ladies involved in N-Roulette?
+
+Why not?
+
+Free software programmers and pornstars are perhaps the most oppressed professionals in the world.
+
+(You may quote this. And you are welcome.)
+
+As such, I believe we understand each other well --- not that I have met a pornstar in real life myself.
+
+Anyway, by creating the fairest roulette, we also want to create the fairest company, where free software programmers and the roulette ladies alike can be shareholders --- not anyone's employee, but of course, unless we choose to be.
+
+<hr>
+
 Use ID-less transactions, cryotocurrencies.
 
 We may use this idea to implement Phos Cloudless platform.
