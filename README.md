@@ -16,6 +16,8 @@ A social network project nowadays require multiple motivations across different 
 
 One of the motivations of this project is to promote the idea of ID-less transaction --- a breakthrough since the days of Unix user ID where even blockchain inventors did not attempt to break away.
 
+https://github.com/udexon/DatongToken/blob/master/Datong_3_in_1.md
+
 Some of the most obvious benefits of ID-less transactions are:
 
 - It will enable online micropayment tipping (OMT) outside China.
@@ -56,7 +58,7 @@ Of course, this is still a hypothesis. But isn't hypothesis in itself most attra
 Just as none of the existing blockchains was able to break away from the Unix user ID convention, our ID-less paradigm can be used to create a new, ultimate super-blockchain. Incidentally, the roulette computations, including users bets, can be used as inputs to create the ultimate Proof of Stake system. One stone kills many birds indeed.
 
 
-### Lady Bosses
+### Lady Bosses and Rewarding Free Software Programmers
 
 Is it possible to be ethical to the ladies involved in N-Roulette?
 
