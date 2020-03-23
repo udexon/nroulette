@@ -45,6 +45,7 @@ Now if naked ladies are not enough to get nerds (another N word!!) excited, I be
 - The Fairest Roulette 
 - Doubling as the Biggest Proof of Stake Machine
 
+Some mathematicians are gamblers. Some programmers want to be mathematicians. So here is the ultimate prize, the holy grail of programming and mathematics -- the fairest roulette.
 
 Use ID-less transactions, cryotocurrencies.
 
