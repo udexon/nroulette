@@ -1,7 +1,6 @@
-# nroulette
-N Roulette
+### N-Roulette
 
-N Roulette -- where N could stand for many things depending on the participants, ranging from network, nude, to naked etc ...
+N-Roulette -- where N could stand for many things depending on the participants, ranging from network, nude, to naked etc ...
 
 Online casinos are perhaps one of the booming businesses that will thrive during the crisis and beyond, while we have no idea how long the Coronavirus lockdowns are going to last.
 
@@ -23,11 +22,10 @@ Some of the most obvious benefits of ID-less transactions are:
 
 - Donors and recipients of online micropayment tipping (OMT) will not need to create new user accounts on any new system. This step is replaced by installing an mobile app or visiting a web page (without logging in) that complies with our open and free ID-less protocol based on asymmetric cryptography (public and prive keys).
 
-As such, this project -- 
+Unfortunately the idea of ID-less transactions itself is not sufficiently attractive enough to kick start developers to volutarily or commercially develop it. Hence N-Roulette.
 
- 
 
-Naked Roulette
+### Naked Roulette
 
 37 ladies each represents a number on the roulette.
 
