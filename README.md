@@ -33,7 +33,7 @@ Unfortunately the idea of ID-less transactions itself is not sufficiently attrac
 
 A roulette lady may resell her position to someone else, or work in group for sales and control of the positions.
 
-A lady may opt to perform specific tasks based on the stake placed on her number, e.g. strip all, masturbate, penetration sex, lesbian group sex etc.
+A lady may opt to perform specific tasks based on the stake placed on her number, e.g. strip all, ....
 
 A lady may choose to be bought out and cease participating by any other willing party or herself.
 
